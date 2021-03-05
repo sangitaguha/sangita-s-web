@@ -1,0 +1,8 @@
+body {
+    background-image: url("image.jpg");
+  }
+  h1{
+    color: blue;
+    text-align: center;
+    font-size: large;
+  }
